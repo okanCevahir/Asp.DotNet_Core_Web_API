@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OFAYGPTIi7u05iY/fht+W2Is8XjROIkwTFa5JPLkLZWtACz6LV3NS+W7AoWxhubh5HvlAxfxw3ByKZRW686ENA==",
+  "dgSpecHash": "jUgd+l5Id+43Own5p0V8laaTKwkUoSsf0VdMXMyUZIieYEleVYAPhlLsCp3ockjVr/nZrsahLsO6YC8uEAktHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\katip\\Desktop\\Yeni klasör\\API\\eb_api_deneme_2\\eb_api_deneme_2.csproj",
+  "projectFilePath": "C:\\Users\\katip\\Desktop\\Asp.DotNet_Core_Web_API\\API\\eb_api_deneme_2\\eb_api_deneme_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\katip\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\katip\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",

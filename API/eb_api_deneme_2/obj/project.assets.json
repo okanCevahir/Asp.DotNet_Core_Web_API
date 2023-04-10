@@ -162,11 +162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\katip\\Desktop\\Yeni klasör\\API\\eb_api_deneme_2\\eb_api_deneme_2.csproj",
+      "projectUniqueName": "C:\\Users\\katip\\Desktop\\Asp.DotNet_Core_Web_API\\API\\eb_api_deneme_2\\eb_api_deneme_2.csproj",
       "projectName": "eb_api_deneme_2",
-      "projectPath": "C:\\Users\\katip\\Desktop\\Yeni klasör\\API\\eb_api_deneme_2\\eb_api_deneme_2.csproj",
+      "projectPath": "C:\\Users\\katip\\Desktop\\Asp.DotNet_Core_Web_API\\API\\eb_api_deneme_2\\eb_api_deneme_2.csproj",
       "packagesPath": "C:\\Users\\katip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\katip\\Desktop\\Yeni klasör\\API\\eb_api_deneme_2\\obj\\",
+      "outputPath": "C:\\Users\\katip\\Desktop\\Asp.DotNet_Core_Web_API\\API\\eb_api_deneme_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
